@@ -1,4 +1,4 @@
-# DotNet Core 6.0 Backend, MS SqlServer and Agular 13.x Frontend Demo project
+# DotNet Core 6.0 Backend, MS SqlServer and Agular 13.x Frontend Demo Project
 
 
 This is a open-source project written in .NET Core 6.0, MS SqlServer and Angular 13.x
