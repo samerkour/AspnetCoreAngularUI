@@ -35,10 +35,10 @@ Employee {
 - Clean architecture
 - Unit of Work and Repository Patterns
 - Responsibility separation concerns
-- SOLID Principles and Clean Code
+- SOLID Principles.
+- Clean Code.
 - Microservices communications
 - Event Sourcing and OutBoxing Pattern
 - Distributed Cashing (Redis Cash).
 - Massge Borkers (RabbitMq) via MassTrasit
-- 
 
