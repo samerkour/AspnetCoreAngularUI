@@ -1,10 +1,10 @@
-# DotNet Core, MS SqlServer and Agular 13.x sample project
+# DotNet Core 6.0 Backend, MS SqlServer and Agular 13.x Frontend Demo project
 
 
 This is a open-source project written in .NET Core 6.0, MS SqlServer and Angular 13.x
 
-This sample project contains the most commonly used technologies in order to demonstrate how to consume .Net Core 6.0 APIs via Angular UI, 
-and supports API Versioning, multilingual response, swagger UI, Ocelot Unified Gateway, and integration with identity server 4 
+The demo project contains the most commonly used technologies in order to demonstrate how to consume .Net Core 6.0 APIs via Angular 13.x UI, 
+this demo supports API Versioning, multilingual response, swagger UI, Ocelot Unified Gateway, and integration with identity server 4 
 
  
 this project implements the below model to simulate CRUD Actions:
