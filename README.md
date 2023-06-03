@@ -27,15 +27,18 @@ Employee {
 - ASP.NET WebApi Core with JWT Bearer Authentication
 - Identity Server 4
 - Entity Framework Core 6.0
-- .NET Core Native D
+- .NET Core Native.
 - FluentValidator
 - Swagger UI with JWT support
 - Unit Test
 # 
 - Clean architecture
+- Unit of Work and Repository Patterns
 - Responsibility separation concerns
 - SOLID Principles and Clean Code
+- Microservices communications
 - Event Sourcing and OutBoxing Pattern
 - Distributed Cashing (Redis Cash).
-- Massge Borkers (RabbitMq)vi MassTrasit
-- Unit of Work and Repository Patterns
+- Massge Borkers (RabbitMq) via MassTrasit
+- 
+
