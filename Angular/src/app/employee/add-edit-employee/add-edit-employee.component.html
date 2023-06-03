@@ -1,0 +1,49 @@
+<div class="d-flex flex-row bd-highlight mb-3">
+  <div class="p-2 w-50 bd-highlight">
+
+
+    <div class="input-group mb-3">
+      <span class="input-group-text">FirstName</span>
+      <input type="text" class="form-control" [(ngModel)]="FirstName">
+    </div>
+    
+    <div class="input-group mb-3">
+      <span class="input-group-text">LastName</span>
+      <input type="text" class="form-control" [(ngModel)]="LastName">
+    </div>
+
+    <div class="input-group mb-3">
+      <span class="input-group-text">Age</span>
+      <input type="number" class="form-control" [(ngModel)]="Age">
+    </div>
+
+    <div class="input-group mb-3">
+      <span class="input-group-text">BirthDate</span>
+      <input type="date" class="form-control" [(ngModel)]="BirthDate">
+    </div>
+
+    <div class="input-group mb-3">
+      <span class="input-group-text">PhoneNumber</span>
+      <input type="text" class="form-control" [(ngModel)]="PhoneNumber">
+    </div>
+
+    <div class="input-group mb-3">
+      <span class="input-group-text">Email</span>
+      <input type="text" class="form-control" [(ngModel)]="Email">
+    </div>
+
+    <div class="input-group mb-3">
+      <span class="input-group-text">AccountNumber</span>
+      <input type="text" class="form-control" [(ngModel)]="AccountNumber">
+    </div>
+
+  </div>
+ 
+</div>
+<button type="button" (click)="addEmployee()" *ngIf="emp.id=='0'" class="btn btn-primary">
+  Create
+</button>
+
+<button type="button" (click)="updateEmployee()" *ngIf="emp.id!='0'" class="btn btn-primary">
+  Update
+</button>

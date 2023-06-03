@@ -1,0 +1,11 @@
+export interface Employee
+{
+    id: number;
+    firstName: string;
+    lastName: string;
+    age: number;
+    birthDate: Date;
+    PhoneNumber: string;
+    email : string;
+    accountNumber: string;
+}
