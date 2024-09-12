@@ -1,4 +1,4 @@
-using STech.Services.Employee.Controllers.V1;
+using STech.Presentation.Controllers.V1;
 using MassTransit;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -10,14 +10,14 @@ using STech.Domain.Interfaces;
 using STech.Infrastructure.Context;
 using System.Collections.Generic;
 using System.Net.Http;
-using System.Threading.Tasks;
 using Xunit;
 using STech.Infrastructure;
-using STech.Services.Employee.Api.Dtos.Employee.Api;
+using STech.Presentation.Api.Dtos.Employee.Api;
 using System;
-using STech.Services.Employee.Api.Validations;
+using STech.Presentation.Api.Validations;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using STech.Presentation.Controllers.V1;
 
 namespace STech.Tests.UnitTest
 {
