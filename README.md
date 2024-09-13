@@ -1,9 +1,9 @@
-# DotNet Core 6.0 Backend, MS SqlServer and Agular 13.x Frontend Demo Project
+# DotNet Core 6.0 Backend, MS SqlServer, and Agular 13.x Frontend Demo Project
 
 
-This is a open-source project written in .NET Core 6.0, MS SqlServer and Angular 13.x
+This open-source project is written in .NET Core 6.0, MS SqlServer, and Angular 13.x
 
-The demo project contains the most commonly used technologies in order to demonstrate how to consume .Net Core 6.0 APIs via Angular 13.x UI, 
+The demo project contains the most commonly used technologies to demonstrate how to consume .Net Core 6.0 APIs via Angular 13.x UI, 
 this demo supports API Versioning, multilingual response, swagger UI, Ocelot Unified Gateway, and integration with identity server 4 
 
  
